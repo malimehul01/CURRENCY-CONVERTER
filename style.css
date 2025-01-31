@@ -18,6 +18,9 @@ body{
   text-align:center;
   background-color:#f4e4ba;
   min-height:100vh;
+   background-image:url(lovepik-financial-arrowhead-stock-background-image_400089168.jpg);
+  background-size:cover;
+  backdrop-filter:blur(1px);
   
 }
 form{
